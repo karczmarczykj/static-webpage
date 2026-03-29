@@ -40,9 +40,7 @@ jobs:
       - name: Build
         run: npm run build
         env:
-          # Set base path for GitHub Pages if deploying to a sub-path
-          # Uncomment and set the repo name if not deploying to the root domain
-          # NEXT_PUBLIC_BASE_PATH: /${{ github.event.repository.name }}
+          NODE_ENV: production
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
