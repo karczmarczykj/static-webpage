@@ -4,10 +4,10 @@ date: "2024-02-05"
 excerpt: "Delicious and diabetes-friendly recipes that won't spike your blood sugar. From breakfast to dinner, we've got you covered."
 author: "Chef Anna"
 coverImage: "/images/healthy-food.jpg"
-tags: ["recipes", "diabetes", "nutrition"]
+tags: ["recipes", "diabetes", "nutrition", "proteins"]
 ---
 
-# Healthy Recipes for People with Diabetes
+# My first title
 
 Eating well with diabetes doesn't mean giving up delicious food. Here are some of our favorite diabetes-friendly recipes.
 
